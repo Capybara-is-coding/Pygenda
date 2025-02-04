@@ -6,7 +6,7 @@
 
 Whether you need a simple task tracker or a personalized productivity tool, **Pygenda** offers a clean interface, customizable themes, and automatic task saving to make task management more convenient.
 
-If you prefer a to-do list without unnecessary features, the **Pygenda** is a lightweight alternative that just works!
+If you prefer a to-do list without unnecessary features, then **Pygenda** is a lightweight alternative that just works!
 
 ***
 🔧 **Technical Details：**
