@@ -7,7 +7,11 @@
 Whether you need a simple task tracker or a personalized productivity tool, **Pygenda** offers a clean interface, customizable themes, and automatic task saving to make task management more convenient.
 
 If you prefer a to-do list without unnecessary features, then **Pygenda** is a lightweight alternative that just works!
-
+***
+📸 **Effect Preview:**  
+  
+![Pygenda Screenshot](Pyneapple.png)
+![Pygenda Screenshot](Strawberry.png)
 ***
 🔧 **Technical Details：**
 1. **Built with**: Python & Tkinter.
@@ -34,11 +38,6 @@ If you prefer a to-do list without unnecessary features, then **Pygenda** is a l
 5. **Remove all completed tasks**: Click Remove Completed Tasks.
 6. **Change Theme & Font**: Select from the dropdown menus.
 7. **Automatic Save**: Your tasks, theme, and font settings are saved and restored.
-***
-📸 **Effect Preview:**  
-  
-![Pygenda Screenshot](Pyneapple.png)
-![Pygenda Screenshot](Strawberry.png)
 ***
 🎤 **Disclaimer:**  
 
