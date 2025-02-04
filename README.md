@@ -35,6 +35,11 @@ If you prefer a to-do list without unnecessary features, then **Pygenda** is a l
 6. **Change Theme & Font**: Select from the dropdown menus.
 7. **Automatic Save**: Your tasks, theme, and font settings are saved and restored.
 ***
+📸 **Effect Preview:**  
+  
+![Pygenda Screenshot](Pyneapple.png)
+![Pygenda Screenshot](Strawberry.png)
+***
 🎤 **Disclaimer:**  
 
   **Pygenda** is a **course project** developed for learning purposes. It is intended for **personal and educational use only**.  
