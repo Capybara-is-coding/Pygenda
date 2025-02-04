@@ -10,10 +10,11 @@ If you prefer a to-do list without unnecessary features, then **Pygenda** is a l
 
 ***
 🔧 **Technical Details：**
-1. Built with: Python & Tkinter.
-2. Data Storage: **JSON** for *task* and *setting* persistence.
-3. No External Database Required: Simple file-based storage for easy setup.
-4. Lightweight & Fast: No unnecessary dependencies, runs smoothly on all systems.
+1. **Built with**: Python & Tkinter.
+2. **Data Storage**: **JSON** for *task* and *setting* persistence.
+3. **No External Database Required**: Simple file-based storage for easy setup.
+4. **Lightweight & Fast**: No unnecessary dependencies, runs smoothly on all systems.
+5. **testing_ygenda.py**: unit tests for Pygenda.
 ***
 📑 **Main functions:**
 1. **Task Management**: Add, delete, and mark tasks as completed.
